@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+}
+body{
+    background:red;
+}
+.content{
+    background-color: brown;
+    color: white;
+    border: 40px solid yellow ;
+    padding: 100px;
+     margin:20px;
+     height: 40px;
+     width: 50px;
+     display:inline-block;
+}
+.box{
+    border-radius: 450px;
+    display: inline-block;
+}

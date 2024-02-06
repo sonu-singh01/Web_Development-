@@ -1,0 +1,32 @@
+#header{
+       background-color:Blue;
+	   color:White;
+	   height:20%;
+	   border:1px Solid Red;
+	   text-align:center;
+	   font-size:30px;
+	   border-radius:25px;
+       }
+#footer{
+	   background-color:Blue;
+	   color:White;
+	   height:10%;
+	   border:1px Solid Red;
+	   text-align:center;
+	   font-size:30px;
+	   border-radius:25px;
+       }
+#container{
+	      height:70%;
+		  width:90%;
+		  background-color:pink;
+}
+#navigator {
+	       background-color:purple;
+	       height:68%;
+		   color:white;
+            width:250px;
+            position:fixed;
+            text-align:center;
+            font-size:30px;			
+}

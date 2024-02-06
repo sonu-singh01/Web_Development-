@@ -1,0 +1,92 @@
+#header{
+    background-color:Blue;
+    color:White;
+    border:2px solid tomato;
+    font-size:30px;
+    text-align:center;
+    
+}
+#footer{
+    background-color:rgba(255,0,0,0.5);
+    font-size: 50px;
+    border: 4px solid violet;
+    
+      }
+ul li{
+        background-color: magenta;
+        padding:15px;
+        display: block;
+        margin-bottom:10px;
+        border:2px solid green;
+        border-radius: 15px;
+        margin-right:85%;
+    }
+    b{
+        background-color:grey;
+        color:red;
+        text-align: center;
+       direction: up;
+    }
+    h1{
+        background-color: tomato;
+        width: 500px;
+        margin-left :400px;
+        margin-top: 10px;
+        font-size: 50px;
+
+    }
+    h2{
+        background-color:grey;
+        color:red;
+        text-align: center;
+        text-decoration:underline solid yellow;
+        font-size:x-large;
+       }
+h3{
+    background-color: tomato;
+        width: 500px;
+        margin-left :400px;
+        margin-top: 10px;
+      font-size:40px;
+
+}
+h5{
+    float:right;
+    margin-top:-30%;
+    margin-right:35%;
+    padding: 10px;
+}
+
+h6{
+    background-color: brown;
+    margin-left:70%;
+    font-size: 50px;
+    margin-top: -25%;
+    padding: 10px;
+    border: 2px solid red;
+    text-decoration: underline;
+    text-align: center;
+    height: 50%;
+
+
+}
+a{
+    text-decoration:none;
+}
+b{
+    background-color:rgb(246, 16, 188);
+    color:rgb(16, 206, 249);
+    text-align: center;
+    text-decoration:underline solid rgb(6, 223, 53);
+    font-size:x-large;
+}
+  img{
+        float:left;
+        padding:15px;
+        
+    } 
+    a:hover{
+        background-color:pink;
+        padding:15px;
+        border-radius: 20px;
+    }
